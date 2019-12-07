@@ -15,3 +15,6 @@ images db to upload images and check its size and extension
 
 4-> terminal 
 files for the final exam crud operations
+
+5-> php folder 
+contains php practice on OOP php
