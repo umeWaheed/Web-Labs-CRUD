@@ -1,0 +1,2 @@
+RewriteEngine On    # Turn on the rewriting engine
+RewriteRule ^viewDetails/?[0-9]$ viewDetails.php/$1 
