@@ -1,0 +1,37 @@
+body{
+    /*background-color: salmon;*/
+    background: #2E5674;
+}
+.file{
+    padding: 0;
+}
+img{
+    width:100%;
+    height: 15em;
+}
+.out{
+    background: #2E5674;
+    border-left: 3px solid #38678B;
+    border-top: 3px solid #38678B;
+    border-bottom: 3px solid #24435B;
+    border-right: 3px solid #24435B;
+}
+form{
+    padding: 5%;
+    padding-top:2%;
+    padding-bottom: 2%;
+}
+.panel{
+    margin: 3%;
+    padding: 0;
+}
+.panel-footer{
+    background-color: #2E5674;
+    color:sandybrown;
+    text-align: center;
+    border-top:2px dotted sandybrown;
+}
+
+.error{
+    color:sandybrown;
+}
